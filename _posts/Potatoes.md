@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Potatoes
-categories: sides
+categories: Sides
 ---
 
 ## Ingredients 
