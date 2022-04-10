@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /categories/
-title: Categories
+permalink: /browse/
+title: Browse Recipes by Category
 ---
 
 
