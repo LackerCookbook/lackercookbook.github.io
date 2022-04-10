@@ -20,25 +20,13 @@ avatar: /images/reverie.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: eric@lacker.us | charlie@lacker.us
-  facebook:
-  flickr:
+  email: eric@lacker.us; charlie@lacker.us
   github: LackerCookbook/lackercookbook.github.io
-  instagram:
-  linkedin: 
-  pinterest:
-  rss: rss
-  twitter: 
-  stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus: lackercookbook
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
