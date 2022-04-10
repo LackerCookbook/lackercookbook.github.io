@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swedish Apple Pie
-categories: tags
+categories: Dessert
 ---
 
 ## Ingredients 
